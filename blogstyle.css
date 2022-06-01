@@ -1,0 +1,17 @@
+.post-container{
+    font-family: Montserrat;
+    background-color: #fffafa;
+    width: 70%;
+    height: 100%;
+    margin: 0% auto 0% auto;
+
+}
+
+.date{
+    font-family: Roboto;
+    color: #008080;
+}
+
+#post-content{
+    font-family: Open Sans;
+}
